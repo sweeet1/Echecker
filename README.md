@@ -6,7 +6,7 @@
 
 ### 方式一：直接运行 exe（推荐）
 
-下载 [Releases](../../releases) 中的 `Echecker.exe`，双击即可运行，无需安装任何依赖。
+👉 下载 [Echecker.exe](https://github.com/sweeet1/Echecker/releases/latest/download/Echecker.exe)，双击即可运行，无需安装任何依赖。
 
 ### 方式二：从源码运行
 
